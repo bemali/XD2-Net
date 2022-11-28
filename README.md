@@ -10,5 +10,5 @@ Support functions for the main notebooks are written as packages in these files
 * `Data_proc.py` : Data pre-processing functions
 * `Inputs.py`: Generating input vectors with pre-processed dataset
 #### Main notebooks
-* `XDD_Outcome_Prediction.ipynb`: Main note book in which outcome prediction and generation of explanations is done
-* `Evaluations.ipynb`: Notebook for evaluating the model performance and model explanations
+* `XD2_Net.ipynb`: Main note book in which outcome prediction and generation of explanations is done
+* `XD2_Net_Explanation_Evaluation.ipynb`: Notebook for evaluating the model performance and model explanations
