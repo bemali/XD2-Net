@@ -1,4 +1,4 @@
-# XDD-Net: Explainable Dual Learning Deep (Neural) Network for Process Outcome Prediction
+# XD2-Net: Explainable Dual Learning Deep (Neural) Network for Process Outcome Prediction
 
 This project is a deep neural architecture designed for which uses two feature sets for learning (Dual Learning) and one feature set for explaining the model prediction.
 
